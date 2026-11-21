@@ -1,0 +1,13 @@
+# Build output: the exe is attached to GitHub releases instead (see .github/workflows/build.yml)
+/NudgeClock.exe
+*.pdb
+
+# Your own settings, written next to the exe
+NudgeClock.ini
+
+# Editors and Windows
+.vs/
+.vscode/
+.claude/
+Thumbs.db
+desktop.ini
